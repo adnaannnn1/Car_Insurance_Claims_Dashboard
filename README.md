@@ -2,11 +2,6 @@
 
 A comprehensive Power BI dashboard designed to analyze and visualize car insurance claims data. This project transforms raw policy and claims data into actionable insights, enabling risk assessment, trend identification, and data-driven decision-making for an insurance company.
 
-![Dashboard Screenshot](/Images/Overview.png)
-*The main overview dashboard showing key metrics and visualizations.*
-
----
-
 ## 📊 Project Overview
 
 This interactive dashboard provides a 360-degree view of an insurance portfolio's claims activity. By dissecting claims across various dimensions like demographics, vehicle attributes, and driver behavior, it helps answer critical business questions:
@@ -43,6 +38,10 @@ The report consists of two main pages:
 
 ### 1. Main Dashboard - Claims Overview
 The primary page for high-level analysis and trend spotting.
+
+![Dashboard Screenshot](/Images/Overview.png)
+*The main overview dashboard showing key metrics and visualizations.*
+
 *   **Executive Summary:** High-level KPIs for Total Policies, Total Claims, and Claims Rate.
 *   **Demographic Analysis:** Claims distribution by **Gender**, **Education Level**, and **Age Group**.
 *   **Vehicle Analysis:** Claims by **Vehicle Type** and **Vehicle Year**.
